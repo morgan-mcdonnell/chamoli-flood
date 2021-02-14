@@ -2,7 +2,7 @@
 Classified satellite record of the Chamoli area to aid in efforts for the February 7, 2021 flood event. KH-9 imagery processed using HEXIMAP (Maurer and Rupper, 2015).
 
 
-# References 
+## References 
 
 Maurer, J. & Rupper, S. (2015). Tapping into the Hexagon spy imagery database: A new automated pipeline for geomorphic change detection. ISPRS Journal of Photogrammetry and Remote Sensing, 108, 113-127.
 
