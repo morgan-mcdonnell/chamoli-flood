@@ -1,5 +1,5 @@
 # chamoli-flood
-Classified satellite record of the Chamoli area to aid in efforts for the February 7, 2021 flood event. KH-9 imagery processed using HEXIMAP (Maurer and Rupper, 2015).
+Classified satellite record of the Chamoli area to aid in investigation of the February 7, 2021 flood event. KH-9 imagery processed using HEXIMAP (Maurer and Rupper, 2015).
 
 
 ### References 
