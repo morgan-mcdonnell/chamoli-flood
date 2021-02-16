@@ -10,6 +10,4 @@ NASA JPL (2020). NASADEM Merged DEM Global 1 arc second V001 [Data set]. NASA EO
 
 RGI Consortium (2017). Randolph Glacier Inventory – A Dataset of Global Glacier Outlines: Version 6.0. Technical Report, Global Land Ice Measurements from Space, Colorado, doi: 10.7265/N5-RGI-60
 
-Shean, D. E., Bhushan, S., Montesano, P., Rounce, D. R., Arendt, A., & Osmanoglu, B. (2020). A Systematic, Regional Assessment of High Mountain Asia Glacier Mass Balance. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00363
-
 USGS (2018). USGS EROS Archive – Declassified Data – Declassified Satellite Imagery – 3. Available from https://www.usgs.gov/centers/eros/science/usgs-eros-archive-declassified-data-declassified-satellite-imagery-3?qt-science_center_objects=0#qt-science_center_objects (Accessed 14 February 2021).
