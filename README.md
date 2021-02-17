@@ -1,8 +1,6 @@
 # chamoli-flood
 Classified satellite record of the Chamoli area to aid in investigation of the February 7, 2021 flood event. KH-9 imagery processed using HEXIMAP (Maurer and Rupper, 2015).
 
-Imagery and DEMs are LZW compressed.
-
 ### References 
 
 A. Arendt, A. Bliss, T. Bolch, J. G. Cogley, A. S. Gardner, J.-O. Hagen, R. Hock, M. Huss, G. Kaser, C. Kienholz, W. T. Pfeffer, G. Moholdt, F. Paul, V. Radić, L. Andreassen, S. Bajracharya, N. E. Barrand, M. Beedle, E. Berthier, R. Bhambri, I. Brown, E. Burgess, D. Burgess, F. Cawkwell, T. Chinn, L. Copland, B. Davies, H. De Angelis, E. Dolgova, L. Earl, K. Filbert, R. Forester, A. G. Fountain, H. Frey, B. Giffen, N. Glasser, W. Q. Guo, S. Gurney, W. Hagg, D. Hall, U. K. Haritashya, G. Hartmann, C. Helm, S. Herreid, I. Howat, G. Kapustin, T. Khromova, M. König, J. Kohler, D. Kriegel, S. Kutuzov, I. Lavrentiev, R. LeBris, S. Y. Liu, J. Lund, W. Manley, R. Marti, C. Mayer, E. S. Miles, X. Li, B. Menounos, A. Mercer, N. Mölg, P. Mool, G. Nosenko, A. Negrete, T. Nuimura, C. Nuth, R. Pettersson, A. Racoviteanu, R. Ranzi, P. Rastner, F. Rau, B. Raup, J. Rich, H. Rott, A. Sakai, C. Schneider, Y. Seliverstov, M. Sharp, O. Sigurðsson, C. Stokes, R. G. Way, R. Wheate, S. Winsvold, G. Wolken, F. Wyatt, N. Zheltyhina. Randolph Glacier Inventory—A Dataset of Global Glacier Outlines: Version 6.0 (2017)
