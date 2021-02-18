@@ -5,9 +5,9 @@ Classified satellite record of the Chamoli area to aid in investigation of the F
 
 HMA 8-m DEM Mosaic v2 for the Chamoli region downloaded from Zenodo repository (https://doi.org/10.5281/zenodo.4532391)
 
-RGI Consortium (2017). Randolph Glacier Inventory – A Dataset of Global Glacier Outlines: Version 6.0: Technical Report, Global Land Ice Measurements from Space, Colorado, USA. Digital Media. DOI: https://doi.org/10.7265/N5-RGI-60
-
 Maurer, J. & Rupper, S. (2015). Tapping into the Hexagon spy imagery database: A new automated pipeline for geomorphic change detection. ISPRS Journal of Photogrammetry and Remote Sensing, 108, 113-127.
+
+RGI Consortium (2017). Randolph Glacier Inventory – A Dataset of Global Glacier Outlines: Version 6.0: Technical Report, Global Land Ice Measurements from Space, Colorado, USA. Digital Media. https://doi.org/10.7265/N5-RGI-60
 
 Shean, D. E., Bhushan, S., Montesano, P., Rounce, D. R., Arendt, A., & Osmanoglu, B. (2020). A Systematic, Regional Assessment of High Mountain Asia Glacier Mass Balance. Frontiers in Earth Science, 7. https://doi.org/10.3389/feart.2019.00363
 
