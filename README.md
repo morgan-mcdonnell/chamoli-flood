@@ -1,6 +1,8 @@
 # chamoli-flood
 Classified satellite record of the Chamoli area to aid in investigation of the February 7, 2021 flood event. KH-9 imagery processed using HEXIMAP (Maurer and Rupper, 2015).
 
+Imagery is DEFLATE compressed.
+
 ### References and Acknowledgements
 
 HMA 8-m DEM Mosaic v2 for the Chamoli region downloaded from Zenodo repository (https://doi.org/10.5281/zenodo.4532391)
