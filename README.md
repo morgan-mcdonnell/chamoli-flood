@@ -5,7 +5,9 @@ DEMs and Imagery are DEFLATE compressed.
 
 ### References and Acknowledgements
 
-HMA 8-m DEM Mosaic v2 for the Chamoli region downloaded from Zenodo repository (https://doi.org/10.5281/zenodo.4532391)
+HMA 8-m DEM Mosaic v2 for the Chamoli region downloaded from Zenodo repository (https://doi.org/10.5281/zenodo.4532391).
+
+Landsat 8 imagery downloaded from USGS Earth Explorer.
 
 Maurer, J. & Rupper, S. (2015). Tapping into the Hexagon spy imagery database: A new automated pipeline for geomorphic change detection. ISPRS Journal of Photogrammetry and Remote Sensing, 108, 113-127.
 
